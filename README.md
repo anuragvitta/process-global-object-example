@@ -1,0 +1,1 @@
+# process-global-object-example
